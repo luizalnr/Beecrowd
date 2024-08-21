@@ -17,4 +17,3 @@ Se você identificar uma oportunidade de melhoria em qualquer uma das soluções
 ---
 
 **Sinta-se à vontade para explorar, aprender e contribuir!**
-```
